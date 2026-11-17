@@ -1,0 +1,173 @@
+{
+  "tempo": 120,
+  "notes": [
+    {
+      "frequency": 261.626,
+      "beats": 1
+    },
+    {
+      "frequency": 261.626,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 440,
+      "beats": 1
+    },
+    {
+      "frequency": 440,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 2
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 293.665,
+      "beats": 1
+    },
+    {
+      "frequency": 293.665,
+      "beats": 1
+    },
+    {
+      "frequency": 261.626,
+      "beats": 2
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 293.665,
+      "beats": 2
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 293.665,
+      "beats": 2
+    },
+    {
+      "frequency": 261.626,
+      "beats": 1
+    },
+    {
+      "frequency": 261.626,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 1
+    },
+    {
+      "frequency": 440,
+      "beats": 1
+    },
+    {
+      "frequency": 440,
+      "beats": 1
+    },
+    {
+      "frequency": 391.995,
+      "beats": 2
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 349.228,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 329.628,
+      "beats": 1
+    },
+    {
+      "frequency": 293.665,
+      "beats": 1
+    },
+    {
+      "frequency": 293.665,
+      "beats": 1
+    },
+    {
+      "frequency": 261.626,
+      "beats": 2
+    }
+  ]
+}
