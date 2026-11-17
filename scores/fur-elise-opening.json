@@ -1,0 +1,125 @@
+{
+  "tempo": 120,
+  "notes": [
+    {
+      "frequency": 659.255,
+      "beats": 0.5
+    },
+    {
+      "frequency": 622.254,
+      "beats": 0.5
+    },
+    {
+      "frequency": 659.255,
+      "beats": 0.5
+    },
+    {
+      "frequency": 622.254,
+      "beats": 0.5
+    },
+    {
+      "frequency": 659.255,
+      "beats": 0.5
+    },
+    {
+      "frequency": 493.883,
+      "beats": 0.5
+    },
+    {
+      "frequency": 587.33,
+      "beats": 0.5
+    },
+    {
+      "frequency": 523.251,
+      "beats": 0.5
+    },
+    {
+      "frequency": 440,
+      "beats": 1
+    },
+    {
+      "frequency": 0,
+      "beats": 0.5
+    },
+    {
+      "frequency": 261.626,
+      "beats": 0.5
+    },
+    {
+      "frequency": 329.628,
+      "beats": 0.5
+    },
+    {
+      "frequency": 440,
+      "beats": 0.5
+    },
+    {
+      "frequency": 493.883,
+      "beats": 1
+    },
+    {
+      "frequency": 0,
+      "beats": 0.5
+    },
+    {
+      "frequency": 329.628,
+      "beats": 0.5
+    },
+    {
+      "frequency": 415.305,
+      "beats": 0.5
+    },
+    {
+      "frequency": 493.883,
+      "beats": 0.5
+    },
+    {
+      "frequency": 523.251,
+      "beats": 1
+    },
+    {
+      "frequency": 0,
+      "beats": 0.5
+    },
+    {
+      "frequency": 329.628,
+      "beats": 0.5
+    },
+    {
+      "frequency": 659.255,
+      "beats": 0.5
+    },
+    {
+      "frequency": 622.254,
+      "beats": 0.5
+    },
+    {
+      "frequency": 659.255,
+      "beats": 0.5
+    },
+    {
+      "frequency": 622.254,
+      "beats": 0.5
+    },
+    {
+      "frequency": 659.255,
+      "beats": 0.5
+    },
+    {
+      "frequency": 493.883,
+      "beats": 0.5
+    },
+    {
+      "frequency": 587.33,
+      "beats": 0.5
+    },
+    {
+      "frequency": 523.251,
+      "beats": 0.5
+    },
+    {
+      "frequency": 440,
+      "beats": 1.5
+    }
+  ]
+}
